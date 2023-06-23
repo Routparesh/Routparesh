@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paresh Kumar Rout
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on who start JS 
 - 📫 How to reach me ... 
 
