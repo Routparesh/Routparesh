@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/paresh-kumar-rout" target="blank"><img align="center" src="https://th.bing.com/th?id=OIP.b5oDvUVU5UVN4cefTJGq3wHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2" alt="paresh-kumar-rout" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/paresh-kumar-rout-333246188/" target="blank"><img align="center" src="https://th.bing.com/th?id=OIP.b5oDvUVU5UVN4cefTJGq3wHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2" alt="paresh-kumar-rout" height="30" width="40" /></a>
 
 </p>
 
