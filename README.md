@@ -29,3 +29,4 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=routparesh&" alt="routparesh" />
 <img align="center" src="https://wakatime.com/share/@7488eb66-6e61-443d-89ac-325e043b294d/d1fa6803-3c6c-4d77-89fb-f0dbbd3d3a84.svg" alt="wakatime" width="400" />
+<a href="https://wakatime.com/@7488eb66-6e61-443d-89ac-325e043b294d"><img src="https://wakatime.com/badge/user/7488eb66-6e61-443d-89ac-325e043b294d.svg" alt="Total time coded since Oct 5 2022" /></a>
