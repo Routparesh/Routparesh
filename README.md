@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=routparesh&label=Profile%20views&color=0e75b6&style=flat" alt="routparesh" /> </p>
 
 
-- 🔭 I’m currently working on **Express Project**
+- 🔭 I’m currently working on **Full Stack Project**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **React, Backend Development**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, MySQL, MongoDB, NodeJs, Express, Git**
 
 - 📫 How to reach me **https://www.linkedin.com/in/paresh-kumar-rout-333246188/**
 
