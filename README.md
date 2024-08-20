@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, Backend Development**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, MySQL, MongoDB, NodeJs, Express, Git**
+- 💬 Ask me about **HTML, CSS, JavaScript,React, MySQL, MongoDB, NodeJs, Express, Git**
 
 - 📫 How to reach me **https://www.linkedin.com/in/paresh-kumar-rout-333246188/**
 
