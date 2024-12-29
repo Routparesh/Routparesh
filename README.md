@@ -23,7 +23,7 @@
 
 <style>
   a {
-    margin-right: 10px; /* Adjust this value to set the desired space between icons */
+    margin-right: 20px; /* Adjust this value to set the desired space between icons */
   }
 </style>
 
