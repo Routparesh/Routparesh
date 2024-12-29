@@ -1,16 +1,14 @@
 [![MasterHead](https://camo.githubusercontent.com/2dcf1a73f7dcb84e53882d821de7b61d4362388b92e1f9d974563c489abeb342/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f302a4647443642557a7a5a7331564a4c75592e676966)
 <h1 align="center">Hi 👋, I'm Paresh Kumar Rout</h1>
-<h3 align="center">A passionate full-stack JavaScript developer from India</h3>
+<h3 align="center">Aspiring DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=routparesh&label=Profile%20views&color=0e75b6&style=flat" alt="routparesh" /> </p>
 
 
-- 🔭 I’m currently working on **Full Stack Project**
+- 🔭 I’m currently working on **DevOps Project**
 
-- 🌱 I’m currently learning **React, Backend Development**
-
-- 💬 Ask me about **HTML, CSS, JavaScript,React, MySQL, MongoDB, NodeJs, Express, Git**
+- 💬 Ask me about **Linux, AWS, Docker, Kubernetes, Jenkins, Git**
 
 - 📫 How to reach me **https://www.linkedin.com/in/paresh-kumar-rout-333246188/**
 
