@@ -21,6 +21,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" alt="linux" width="50" height="50"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="python" width="50" height="50"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/15466/15466088.png" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=96&id=cvzmaEA4kC0o&format=png" alt="html5" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=96&id=33039&format=png" alt="javascript" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=UFXRpPFebwa2&format=png" alt="mysql" width="60" height="60"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=96&id=39292&format=png" alt="nextjs" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=96&id=Ei4ZhVQvIMHE&format=png" alt="nodejs" width="50" height="50"/> </a></p>
 
+<style>
+  a {
+    margin-right: 10px; /* Adjust this value to set the desired space between icons */
+  }
+</style>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=routparesh&show_icons=true&locale=en&layout=compact" alt="routparesh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=routparesh&show_icons=true&locale=en" alt="routparesh" /></p>
